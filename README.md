@@ -41,7 +41,7 @@
   </a>
 </p>
 
-## Proyectos (En progeso...)
+## Proyectos (en progeso...)
 
 
 
