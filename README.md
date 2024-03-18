@@ -134,6 +134,4 @@
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
 
-Last Edited on: 4/30/2022
