@@ -33,6 +33,9 @@
    <a>
     <img alt="html5" src="https://img.shields.io/badge/Html5-P?style=for-the-badge&logo=html5&color=%23000000">
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS-P?style=for-the-badge&logo=css3&color=%2387CEFA" alt="CSS" />
+  </a>
 </p>
 
 ## Projects
