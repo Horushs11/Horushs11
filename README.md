@@ -19,9 +19,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
-  <a href="" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  </a>
+ 
   
    <a href="" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
