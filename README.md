@@ -1,6 +1,6 @@
 ## Hola, soy Roberto <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >¡Hola! Soy Roberto, un apasionado desarrollador con experiencia en una variedad de tecnologías. Mi especialización incluye Python, Java, MySQL, MongoDB, HTML, JavaScript y CSS. Me encanta crear soluciones innovadoras y robustas que impulsen el mundo de la tecnología. Estoy constantemente buscando desafíos emocionantes y oportunidades para aprender y crecer como profesional. ¡Bienvenido a mi perfil de GitHub!
 </p>
 
 <p align ="center">
