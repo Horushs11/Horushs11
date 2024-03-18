@@ -110,21 +110,7 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 ----
 
