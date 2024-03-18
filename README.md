@@ -27,6 +27,9 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+   <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://img.shields.io/badge/Django-P?style=for-the-badge&logo=Django&color=%23FF7F50" alt="django"/> 
+  </a>
 </p>
 
 ## Projects
