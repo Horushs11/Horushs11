@@ -7,7 +7,7 @@
   <a href="mailto:soyroberto2002@gmail.com?subject=Feedback%20From%20Github&body=Hola," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+   <a href="https://www.linkedin.com/in/roberto-moreno-iglesias-096534258/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
   </p>
