@@ -5,7 +5,7 @@
 ## Hola, soy Roberto <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&random=false&width=435&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&random=false&width=435&lines=%C2%A1Bienvenidos+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
 </p>
 
 <p >Soy un apasionado desarrollador con ganas de aprender. Actualmente trabajo y aprendo una serie de tecnologías como Python, Java, MySQL, MongoDB, HTML, JavaScript y CSS. Me encanta crear soluciones innovadoras y robustas que impulsen el mundo de la tecnología. Estoy constantemente buscando desafíos emocionantes y oportunidades para aprender y crecer como profesional. 
