@@ -1,6 +1,6 @@
 ## Hola, soy Roberto <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-<p >Soy un apasionado desarrollador con ganas de aprender. Actualmente trabajo y aprendo una serie de tecnologías como Python, Java, MySQL, MongoDB, HTML, JavaScript y CSS. Me encanta crear soluciones innovadoras y robustas que impulsen el mundo de la tecnología. Estoy constantemente buscando desafíos emocionantes y oportunidades para aprender y crecer como profesional. ¡Bienvenido a mi perfil de GitHub!
+<p >Soy un apasionado desarrollador con ganas de aprender. Actualmente trabajo y aprendo una serie de tecnologías como Python, Java, MySQL, MongoDB, HTML, JavaScript y CSS. Me encanta crear soluciones innovadoras y robustas que impulsen el mundo de la tecnología. Estoy constantemente buscando desafíos emocionantes y oportunidades para aprender y crecer como profesional. 
 </p>
 
 <p align ="center">
